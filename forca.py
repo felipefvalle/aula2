@@ -26,5 +26,6 @@ def forca():
             print(f"\n\tFim de Jogo!\n\n A palavra era {palavra_formada}.\n Você acertou na {tentativas} tentativa!\n")
             letras_acertadas = ''
             break
+        
 forca()
 
